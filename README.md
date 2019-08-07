@@ -1,6 +1,6 @@
 # Wrangling MLB PitchFx Data in Python
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZKydSxkm8DM/0.jpg#center)](https://www.youtube.com/watch?v=ZKydSxkm8DM)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/azxbBvHIH-w/0.jpg#center)](https://www.youtube.com/watch?v=azxbBvHIH-w)
 
 A full walk-through of this project is offered as a free course on Udemy.com at:
 
