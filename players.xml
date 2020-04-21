@@ -1,0 +1,87 @@
+<!--NOTICE: This file is no longer actively supported. Please use the MLB Stats API (http://statsapi.mlb.com/docs/) as an alternative.  Copyright 2018 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game venue="Dodger Stadium" date="June 18, 2014">
+	<team type="away" id="COL" name="Colorado Rockies">
+		<player id="518934" first="DJ" last="LeMahieu" num="9" boxname="LeMahieu" rl="R" bats="R" position="2B" status="A" team_abbrev="COL" team_id="115" parent_team_abbrev="COL" parent_team_id="115" avg=".252" hr="2" rbi="19" bat_order="8" current_position="2B" game_position="2B"/>
+		<player id="572816" first="Corey" last="Dickerson" num="6" boxname="Dickerson, C" rl="R" bats="L" position="OF" status="A" team_abbrev="COL" team_id="115" parent_team_abbrev="COL" parent_team_id="115" avg=".324" hr="8" rbi="24" bat_order="1" current_position="LF" game_position="LF"/>
+		<player id="279571" first="Matt" last="Belisle" num="34" boxname="Belisle" rl="R" bats="R" position="P" status="A" team_abbrev="COL" team_id="115" parent_team_abbrev="COL" parent_team_id="115" avg=".000" hr="0" rbi="0" wins="2" losses="2" era="4.66"/>
+		<player id="453211" first="Drew" last="Stubbs" num="13" boxname="Stubbs" rl="R" bats="R" position="CF" status="A" team_abbrev="COL" team_id="115" parent_team_abbrev="COL" parent_team_id="115" avg=".297" hr="4" rbi="16" bat_order="5" current_position="CF" game_position="CF"/>
+		<player id="554431" first="Tyler" last="Matzek" num="46" boxname="Matzek" rl="L" bats="L" position="P" status="A" team_abbrev="COL" team_id="115" parent_team_abbrev="COL" parent_team_id="115" avg=".200" hr="0" rbi="0" wins="1" losses="1" era="3.75"/>
+		<player id="408047" first="Justin" last="Morneau" num="33" boxname="Morneau" rl="R" bats="L" position="1B" status="A" team_abbrev="COL" team_id="115" parent_team_abbrev="COL" parent_team_id="115" avg=".299" hr="11" rbi="44"/>
+		<player id="462985" first="Franklin" last="Morales" num="56" boxname="Morales" rl="L" bats="L" position="P" status="A" team_abbrev="COL" team_id="115" parent_team_abbrev="COL" parent_team_id="115" avg=".125" hr="0" rbi="0" bat_order="9" current_position="P" game_position="P" wins="4" losses="4" era="5.70"/>
+		<player id="592621" first="Kyle" last="Parker" num="16" boxname="Parker, K" rl="R" bats="R" position="RF" status="A" team_abbrev="COL" team_id="115" parent_team_abbrev="COL" parent_team_id="115" avg=".000" hr="0" rbi="0" bat_order="7" current_position="1B" game_position="1B"/>
+		<player id="571521" first="Rex" last="Brothers" num="49" boxname="Brothers" rl="L" bats="L" position="P" status="A" team_abbrev="COL" team_id="115" parent_team_abbrev="COL" parent_team_id="115" avg=".000" hr="0" rbi="0" bat_order="3" current_position="P" game_position="P" wins="3" losses="4" era="4.65"/>
+		<player id="548357" first="Christian" last="Bergman" num="36" boxname="Bergman" rl="R" bats="R" position="P" status="A" team_abbrev="COL" team_id="115" parent_team_abbrev="COL" parent_team_id="115" avg=".333" hr="0" rbi="0" wins="0" losses="1" era="3.75"/>
+		<player id="493603" first="Adam" last="Ottavino" num="0" boxname="Ottavino" rl="R" bats="S" position="P" status="A" team_abbrev="COL" team_id="115" parent_team_abbrev="COL" parent_team_id="115" avg=".000" hr="0" rbi="0" bat_order="3" current_position="P" game_position="P" wins="0" losses="2" era="4.22"/>
+		<player id="501647" first="Wilin" last="Rosario" num="20" boxname="Rosario, W" rl="R" bats="R" position="1B" status="A" team_abbrev="COL" team_id="115" parent_team_abbrev="COL" parent_team_id="115" avg=".222" hr="7" rbi="26" bat_order="4" current_position="C" game_position="C"/>
+		<player id="434665" first="Nick" last="Masset" num="37" boxname="Masset" rl="R" bats="R" position="P" status="A" team_abbrev="COL" team_id="115" parent_team_abbrev="COL" parent_team_id="115" avg=".000" hr="0" rbi="0" wins="1" losses="0" era="4.00"/>
+		<player id="453568" first="Charlie" last="Blackmon" num="19" boxname="Blackmon" rl="L" bats="L" position="RF" status="A" team_abbrev="COL" team_id="115" parent_team_abbrev="COL" parent_team_id="115" avg=".300" hr="12" rbi="44"/>
+		<player id="488681" first="Brandon" last="Barnes" num="1" boxname="Barnes, B" rl="R" bats="R" position="OF" status="A" team_abbrev="COL" team_id="115" parent_team_abbrev="COL" parent_team_id="115" avg=".292" hr="2" rbi="9" bat_order="2" current_position="RF" game_position="RF"/>
+		<player id="502374" first="Michael" last="McKenry" num="8" boxname="McKenry" rl="R" bats="R" position="C" status="A" team_abbrev="COL" team_id="115" parent_team_abbrev="COL" parent_team_id="115" avg=".318" hr="0" rbi="4"/>
+		<player id="115629" first="LaTroy" last="Hawkins" num="32" boxname="Hawkins" rl="R" bats="R" position="P" status="A" team_abbrev="COL" team_id="115" parent_team_abbrev="COL" parent_team_id="115" avg=".000" hr="0" rbi="0" wins="2" losses="1" era="2.88"/>
+		<player id="518586" first="Charlie" last="Culberson" num="23" boxname="Culberson" rl="R" bats="R" position="OF" status="A" team_abbrev="COL" team_id="115" parent_team_abbrev="COL" parent_team_id="115" avg=".191" hr="1" rbi="8" bat_order="9" current_position="3B" game_position="3B"/>
+		<player id="592454" first="Tommy" last="Kahnle" num="54" boxname="Kahnle" rl="R" bats="R" position="P" status="A" team_abbrev="COL" team_id="115" parent_team_abbrev="COL" parent_team_id="115" avg=".000" hr="0" rbi="0" wins="2" losses="1" era="2.11"/>
+		<player id="592710" first="Josh" last="Rutledge" num="14" boxname="Rutledge" rl="R" bats="R" position="3B" status="A" team_abbrev="COL" team_id="115" parent_team_abbrev="COL" parent_team_id="115" avg=".323" hr="1" rbi="8" bat_order="6" current_position="SS" game_position="SS"/>
+		<player id="453064" first="Troy" last="Tulowitzki" num="2" boxname="Tulowitzki" rl="R" bats="R" position="SS" status="A" team_abbrev="COL" team_id="115" parent_team_abbrev="COL" parent_team_id="115" avg=".356" hr="18" rbi="45" bat_order="3" current_position="SS" game_position="SS"/>
+		<player id="407822" first="Jorge" last="De La Rosa" num="29" boxname="De La Rosa, J" rl="L" bats="L" position="P" status="A" team_abbrev="COL" team_id="115" parent_team_abbrev="COL" parent_team_id="115" avg=".130" hr="0" rbi="0" bat_order="9" current_position="P" game_position="P" wins="6" losses="6" era="4.75"/>
+		<player id="468504" first="Jhoulys" last="Chacin" num="45" boxname="Chacín" rl="R" bats="R" position="P" status="A" team_abbrev="COL" team_id="115" parent_team_abbrev="COL" parent_team_id="115" avg=".333" hr="0" rbi="0" wins="1" losses="5" era="4.53"/>
+		<player id="572253" first="Ryan" last="Wheeler" num="44" boxname="Wheeler, R" rl="R" bats="L" position="3B" status="A" team_abbrev="COL" team_id="115" parent_team_abbrev="COL" parent_team_id="115" avg=".250" hr="1" rbi="6" bat_order="9" current_position="PH" game_position="PH"/>
+		<player id="455119" first="Chris" last="Martin" num="47" boxname="Martin, Ch" rl="R" bats="R" position="P" status="A" team_abbrev="COL" team_id="115" parent_team_abbrev="COL" parent_team_id="115" avg=".000" hr="0" rbi="0" bat_order="9" current_position="P" game_position="P" wins="0" losses="0" era="5.52"/>
+		<coach position="manager" first="Walt" last="Weiss" id="124054" num="22"/>
+		<coach position="hitting_coach" first="Blake" last="Doyle" id="475733" num="25"/>
+		<coach position="pitching_coach" first="Jim" last="Wright" id="124602" num="52"/>
+		<coach position="third_base_coach" first="Stu" last="Cole" id="112469" num="39"/>
+		<coach position="bench_coach" first="Tom" last="Runnells" id="121554" num="11"/>
+		<coach position="bullpen_coach" first="Bo" last="McLaughlin" id="118800" num="40"/>
+		<coach position="major_league_coach" first="Jerry" last="Weinstein" id="506674" num=""/>
+		<coach position="major_league_operations_assistant/bullpen_catcher" first="Pat" last="Burgess" id="645894" num=""/>
+		<coach position="baserunning/outfield_and_first_base_coach" first="Eric" last="Young" id="124695" num="21"/>
+		<coach position="special_assistant" first="Vinny" last="Castilla" id="112106" num="9"/>
+		<coach position="catching_coach/defensive_positioning" first="Rene" last="Lachemann" id="117389" num="53"/>
+	</team>
+	<team type="home" id="LAD" name="Los Angeles Dodgers">
+		<player id="508892" first="Carlos" last="Triunfel" num="45" boxname="Triunfel, C" rl="R" bats="R" position="SS" status="A" team_abbrev="LAD" team_id="119" parent_team_abbrev="LAD" parent_team_id="119" avg="1.000" hr="1" rbi="1" bat_order="2" current_position="SS" game_position="SS"/>
+		<player id="475100" first="Scott" last="Van Slyke" num="33" boxname="Van Slyke" rl="R" bats="R" position="LF" status="A" team_abbrev="LAD" team_id="119" parent_team_abbrev="LAD" parent_team_id="119" avg=".264" hr="6" rbi="11" bat_order="6" current_position="CF" game_position="CF"/>
+		<player id="453198" first="Chris" last="Perez" num="54" boxname="Perez, C" rl="R" bats="R" position="P" status="A" team_abbrev="LAD" team_id="119" parent_team_abbrev="LAD" parent_team_id="119" avg=".000" hr="0" rbi="0" wins="0" losses="3" era="5.61"/>
+		<player id="454560" first="A.J." last="Ellis" num="17" boxname="Ellis" rl="R" bats="R" position="C" status="A" team_abbrev="LAD" team_id="119" parent_team_abbrev="LAD" parent_team_id="119" avg=".217" hr="0" rbi="2" bat_order="7" current_position="C" game_position="C"/>
+		<player id="461314" first="Matt" last="Kemp" num="27" boxname="Kemp, M" rl="R" bats="R" position="LF" status="A" team_abbrev="LAD" team_id="119" parent_team_abbrev="LAD" parent_team_id="119" avg=".276" hr="7" rbi="27" bat_order="5" current_position="LF" game_position="LF"/>
+		<player id="425844" first="Zack" last="Greinke" num="21" boxname="Greinke" rl="R" bats="R" position="P" status="A" team_abbrev="LAD" team_id="119" parent_team_abbrev="LAD" parent_team_id="119" avg=".179" hr="0" rbi="1" wins="9" losses="3" era="2.57"/>
+		<player id="444843" first="Andre" last="Ethier" num="16" boxname="Ethier" rl="L" bats="L" position="RF" status="A" team_abbrev="LAD" team_id="119" parent_team_abbrev="LAD" parent_team_id="119" avg=".259" hr="3" rbi="26"/>
+		<player id="434181" first="Brandon" last="League" num="43" boxname="League" rl="R" bats="R" position="P" status="A" team_abbrev="LAD" team_id="119" parent_team_abbrev="LAD" parent_team_id="119" avg=".000" hr="0" rbi="0" wins="1" losses="2" era="2.27"/>
+		<player id="460077" first="Drew" last="Butera" num="31" boxname="Butera" rl="R" bats="R" position="C" status="A" team_abbrev="LAD" team_id="119" parent_team_abbrev="LAD" parent_team_id="119" avg=".210" hr="2" rbi="11"/>
+		<player id="124604" first="Jamey" last="Wright" num="28" boxname="Wright, J" rl="R" bats="R" position="P" status="A" team_abbrev="LAD" team_id="119" parent_team_abbrev="LAD" parent_team_id="119" avg=".000" hr="0" rbi="0" wins="2" losses="2" era="2.43"/>
+		<player id="434442" first="J.P." last="Howell" num="56" boxname="Howell" rl="L" bats="L" position="P" status="A" team_abbrev="LAD" team_id="119" parent_team_abbrev="LAD" parent_team_id="119" avg=".000" hr="0" rbi="0" wins="1" losses="3" era="1.73"/>
+		<player id="445276" first="Kenley" last="Jansen" num="74" boxname="Jansen, K" rl="R" bats="S" position="P" status="A" team_abbrev="LAD" team_id="119" parent_team_abbrev="LAD" parent_team_id="119" avg=".000" hr="0" rbi="0" wins="0" losses="2" era="3.72"/>
+		<player id="430904" first="Paul" last="Maholm" num="47" boxname="Maholm" rl="L" bats="L" position="P" status="A" team_abbrev="LAD" team_id="119" parent_team_abbrev="LAD" parent_team_id="119" avg=".000" hr="0" rbi="0" wins="1" losses="4" era="4.74"/>
+		<player id="547943" first="Hyun-Jin" last="Ryu" num="99" boxname="Ryu" rl="L" bats="R" position="P" status="A" team_abbrev="LAD" team_id="119" parent_team_abbrev="LAD" parent_team_id="119" avg=".115" hr="0" rbi="1" wins="8" losses="3" era="3.18"/>
+		<player id="457449" first="Jamie" last="Romak" num="35" boxname="Romak" rl="R" bats="R" position="3B" status="A" team_abbrev="LAD" team_id="119" parent_team_abbrev="LAD" parent_team_id="119" avg=".059" hr="0" rbi="3"/>
+		<player id="624577" first="Yasiel" last="Puig" num="66" boxname="Puig" rl="R" bats="R" position="RF" status="A" team_abbrev="LAD" team_id="119" parent_team_abbrev="LAD" parent_team_id="119" avg=".325" hr="11" rbi="42" bat_order="3" current_position="RF" game_position="RF"/>
+		<player id="543829" first="Dee" last="Gordon" num="9" boxname="Gordon, D" rl="R" bats="L" position="2B" status="A" team_abbrev="LAD" team_id="119" parent_team_abbrev="LAD" parent_team_id="119" avg=".278" hr="2" rbi="21" bat_order="1" current_position="2B" game_position="2B"/>
+		<player id="429717" first="Dan" last="Haren" num="14" boxname="Haren" rl="R" bats="R" position="P" status="A" team_abbrev="LAD" team_id="119" parent_team_abbrev="LAD" parent_team_id="119" avg=".143" hr="0" rbi="4" wins="7" losses="4" era="3.54"/>
+		<player id="408236" first="Adrian" last="Gonzalez" num="23" boxname="González, A" rl="L" bats="L" position="1B" status="A" team_abbrev="LAD" team_id="119" parent_team_abbrev="LAD" parent_team_id="119" avg=".252" hr="12" rbi="42" bat_order="4" current_position="1B" game_position="1B"/>
+		<player id="477132" first="Clayton" last="Kershaw" num="22" boxname="Kershaw" rl="L" bats="L" position="P" status="A" team_abbrev="LAD" team_id="119" parent_team_abbrev="LAD" parent_team_id="119" avg=".217" hr="0" rbi="0" bat_order="9" current_position="P" game_position="P" wins="7" losses="2" era="2.52"/>
+		<player id="277417" first="Josh" last="Beckett" num="61" boxname="Beckett" rl="R" bats="R" position="P" status="A" team_abbrev="LAD" team_id="119" parent_team_abbrev="LAD" parent_team_id="119" avg=".154" hr="0" rbi="2" wins="4" losses="4" era="2.37"/>
+		<player id="434670" first="Hanley" last="Ramirez" num="13" boxname="Ramirez, H" rl="R" bats="R" position="1B" status="A" team_abbrev="LAD" team_id="119" parent_team_abbrev="LAD" parent_team_id="119" avg=".261" hr="11" rbi="42" bat_order="2" current_position="SS" game_position="SS"/>
+		<player id="500743" first="Miguel" last="Rojas" num="72" boxname="Rojas" rl="R" bats="R" position="SS" status="A" team_abbrev="LAD" team_id="119" parent_team_abbrev="LAD" parent_team_id="119" avg=".280" hr="0" rbi="4" bat_order="8" current_position="3B" game_position="3B"/>
+		<player id="451216" first="Brian" last="Wilson" num="00" boxname="Wilson, Br" rl="R" bats="R" position="P" status="A" team_abbrev="LAD" team_id="119" parent_team_abbrev="LAD" parent_team_id="119" avg=".000" hr="0" rbi="0" wins="0" losses="2" era="5.55"/>
+		<player id="457759" first="Justin" last="Turner" num="10" boxname="Turner" rl="R" bats="R" position="3B" status="A" team_abbrev="LAD" team_id="119" parent_team_abbrev="LAD" parent_team_id="119" avg=".293" hr="3" rbi="19"/>
+		<coach position="manager" first="Don" last="Mattingly" id="118443" num="8"/>
+		<coach position="pitching_coach" first="Rick" last="Honeycutt" id="116118" num="40"/>
+		<coach position="batting_coach" first="Mark" last="McGwire" id="118743" num="25"/>
+		<coach position="assistant_hitting_coach" first="John" last="Valentin" id="123608" num="13"/>
+		<coach position="assistant_pitching_coach" first="Ken" last="Howell" id="116227" num="43"/>
+		<coach position="first_base_coach" first="Davey" last="Lopes" id="117912" num="15"/>
+		<coach position="third_base_coach" first="Lorenzo" last="Bundy" id="494171" num="49"/>
+		<coach position="bench_coach" first="Tim" last="Wallach" id="123865" num="29"/>
+		<coach position="bullpen_coach" first="Chuck" last="Crim" id="112827" num="50"/>
+		<coach position="bullpen_catcher" first="Steve" last="Cilladi" id="572772" num="82"/>
+		<coach position="bullpen_catcher" first="Rob" last="Flippo" id="429660" num="85"/>
+		<coach position="catching_coach" first="Steve" last="Yeager" id="124656" num=""/>
+		<coach position="coach" first="Manny" last="Mota" id="119453" num="11"/>
+		<coach position="special_advisor" first="Sandy" last="Koufax" id="117277" num=""/>
+	</team>
+	<umpires>
+		<umpire position="home" name="Greg Gibson" id="427184" first="Greg" last="Gibson"/>
+		<umpire position="first" name="Phil Cuzzi" id="427093" first="Phil" last="Cuzzi"/>
+		<umpire position="second" name="Gerry Davis" id="427103" first="Gerry" last="Davis"/>
+		<umpire position="third" name="Quinn Wolcott" id="511890" first="Quinn" last="Wolcott"/>
+	</umpires>
+</game>
